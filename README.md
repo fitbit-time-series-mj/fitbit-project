@@ -1,0 +1,1 @@
+# This is a repo for the team project for Time Series at Codeup.
